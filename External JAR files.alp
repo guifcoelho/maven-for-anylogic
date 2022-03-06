@@ -537,10 +537,6 @@ properties of the agent type (here it is Main): import Jama.*;
 			<Path><![CDATA[libs/jama-1.0.2.jar]]></Path>
 			<ReferencedFromUserCode>false</ReferencedFromUserCode>
 		</Resource>
-		<Resource>
-			<Path><![CDATA[libs]]></Path>
-			<ReferencedFromUserCode>false</ReferencedFromUserCode>
-		</Resource>
 	</ModelResources>
     <RequiredLibraryReference>
 		<LibraryName><![CDATA[com.anylogic.libraries.modules.markup_descriptors]]></LibraryName>
